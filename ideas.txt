@@ -1,0 +1,17 @@
+mvp combat vs bosses
+different weapons
+weapons have attacks, not players
+weapon quick switch in combos
+combo customization
+blocking/parryng
+
+angels and demons theme
+combat fighting frame system
+
+combo system: each attack has a value. If you use a finisher (10), you cannot use a basic attack (1) in combo anymore (10 > 1)
+
+hitstops
+damage
+knockback
+status conditions
+iframes

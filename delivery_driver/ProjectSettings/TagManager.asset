@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Package
+  - Customer
+  - Boost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Roads
+    uniqueID: 3029102777
+    locked: 0
+  - name: Rocks
+    uniqueID: 990084407
+    locked: 0
+  - name: GameMechanics
+    uniqueID: 3782010117
+    locked: 0
+  - name: Player
+    uniqueID: 3120066181
+    locked: 0
+  - name: Houses
+    uniqueID: 3182682461
+    locked: 0
+  - name: Trees
+    uniqueID: 3190274911
+    locked: 0
